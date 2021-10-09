@@ -51,17 +51,18 @@ Original Average Math and Reading Scores vs Revised Average Math and Reading Sco
 According to the above calculations, we can see that the removal of THS' ninth graders' math and reading scores have very little impact on the district's ninth graders' average math and reading scores.
 
 ## Impact on District's Other Metrics
-Since the impact of the removal of THS' ninth graders' math and reading scores on THS' overall metrics is negligible, we do not expect there to be any material impact on the other metrics we are reporting on, namely, Scores by School Spending, Scores by School Size and Scores by School Type. The following are evidence of that
+Since the impact of the removal of THS' ninth graders' math and reading scores on THS' overall metrics is negligible, we do not expect there to be any material impact on the other metrics we are reporting on, namely, Scores by School Spending, Scores by School Size and Scores by School Type. The following are evidence of that.
 
-## Impact on District's Scores by School Spending
+### Impact on District's Scores by School Spending
 Original Scores by School Spending:
 ![original school spending](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_scores_by_spending.png)
 
 Revised Scores by School Spending:
 ![revised school spending](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_scores_by_spending.png)
 
-## Impact on District's Scores by School Size
+### Impact on District's Scores by School Size
 Original Scores by School Size:
+
 ![original school size](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_scores_by_size.png)
 
 Revised Scores by School Size:
@@ -69,7 +70,7 @@ Revised Scores by School Size:
 ![revised school size](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_scores_by_size.png)
 
 
-## Impact on District's Scores by School Type
+### Impact on District's Scores by School Type
 Original Scores by School Type:
 
 ![original school type](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_scores_by_type.png)
@@ -78,5 +79,11 @@ Revised Scores by School Type:
 
 ![revised school type](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_scores_by_type.png)
 
+## Summary
+The overall impact of the removal of THS' questionable scores was very small. We had to analyse the numbers to at least one decimal place in order to identify the differences within THS' metrics, and they are listed as follows:
+- Average Reading Score of THS was 83.8 and it became 83.9;
+- % Passing Math was 93.3 and it became 93.2;
+- % Passing Reading was 97.3 and it became 97.0;
+- % Overall Passing was 90.9 and it became 90.6.
 
 
