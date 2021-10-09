@@ -50,6 +50,9 @@ Original Average Math and Reading Scores vs Revised Average Math and Reading Sco
 
 According to the above calculations, we can see that the removal of THS' ninth graders' math and reading scores have very little impact on the district's ninth graders' average math and reading scores.
 
+## Impact on District's Other Metrics
+Since the impact of the removal of THS' ninth graders' math and reading scores on THS' overall metrics is negligible, we do not expect there to be any material impact on the other metrics we are reporting on, namely, Scores by School Spending, Scores by School Size and Scores by School Type. The following are evidence of that
+
 ## Impact on District's Scores by School Spending
 Original Scores by School Spending:
 ![original school spending](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_scores_by_spending.png)
@@ -57,8 +60,23 @@ Original Scores by School Spending:
 Revised Scores by School Spending:
 ![revised school spending](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_scores_by_spending.png)
 
+## Impact on District's Scores by School Size
+Original Scores by School Size:
+![original school size](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_scores_by_size.png)
+
+Revised Scores by School Size:
+
+![revised school size](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_scores_by_size.png)
 
 
+## Impact on District's Scores by School Type
+Original Scores by School Type:
+
+![original school type](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_scores_by_type.png)
+
+Revised Scores by School Type:
+
+![revised school type](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_scores_by_type.png)
 
 
 
