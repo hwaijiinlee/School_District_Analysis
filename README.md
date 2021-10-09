@@ -83,7 +83,7 @@ Revised Scores by School Type:
 The overall impact of the removal of THS' questionable scores was very small. We had to analyse the numbers to at least one decimal place in order to identify the differences within THS' metrics, and they are listed as follows:
 - Average Reading Score of THS was 83.8 and it became 83.9;
 - % Passing Math was 93.3 and it became 93.2;
-- % Passing Reading was 97.3 and it became 97.0;
+- % Passing Reading was 97.3 and it became 97.0; and
 - % Overall Passing was 90.9 and it became 90.6.
 
 
