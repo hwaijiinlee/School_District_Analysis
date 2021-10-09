@@ -28,7 +28,37 @@ Original Top Five Schools:
 Revised Top Five Schools:
 ![revised top five](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_top_five.png)
 
-Although THS is still ranked number two in the Top Five Schools, the submission of questionable data for their ninth graders' math and reading scores does make one suspect that should the actual scores have been submitted, THS' ranking might have been adversely affected.
+Although THS is still ranked number two in the Top Five Schools, the submission of questionable data for their ninth graders' math and reading scores does make one suspect that should the actual scores be submitted, THS' ranking might have been adversely affected.
+
+## Impact on Math and Reading Scores by Grade
+Original vs Revised Math Scores by Grade
+
+![original math scores](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_math_scores_by_grade.png)
+![revised math scores](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_math_scores_by_grade.png)
+
+Original vs Revised Reading Scores by Grade
+
+![original reading scores](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_reading_scores_by_grade.png)
+![revised reading scores](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_reading_scores_by_grade.png)
+
+As we can see from the revised tables on the right, THS' ninth graders' math and reading scores have been replaced with "nan". Should these tables be published, it would certainly raise questions over the omission of those scores.
+
+### Impact on Ninth Graders' Math and Reading Scores
+Original Average Math and Reading Scores vs Revised Average Math and Reading Scores of all Ninth Graders:
+![original average scores](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_ninth_grade_scores.png)
+![revised average scores](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_ninth_grade_scores.png)
+
+According to the above calculations, we can see that the removal of THS' ninth graders' math and reading scores have very little impact on the district's ninth graders' average math and reading scores.
+
+## Impact on District's Scores by School Spending
+Original Scores by School Spending:
+![original school spending](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_scores_by_spending.png)
+
+Revised Scores by School Spending:
+![revised school spending](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_scores_by_spending.png)
+
+
+
 
 
 
