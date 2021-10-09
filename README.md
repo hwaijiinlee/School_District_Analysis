@@ -6,6 +6,7 @@ In the revised analysis, we have removed all of Thomas High School's ninth grade
 ## Impact on District Summary
 Original District Summary:
 ![Original District Summary](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_district_summary.png)
+
 Revised District Summary:
 ![Revised district summary](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_district_summary.png)
 
@@ -14,6 +15,7 @@ In the Revised District Summary, we have presented the % Passing information to 
 ## Impact on School Summary
 Original School Summary:
 ![Original school summary](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_per_school_summary.png)
+
 Revised Thomas High School's Summary:
 ![revised THS summary](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_per_school_summary.png)
 
@@ -22,6 +24,7 @@ The impact of removing THS' ninth graders' math and reading scores to THS' summa
 ### Impact on Thomas High School's Ranking
 Original Top Five Schools:
 ![original top five](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/original_top_five.png)
+
 Revised Top Five Schools:
 ![revised top five](https://github.com/hwaijiinlee/School_District_Analysis/blob/main/Resources/revised_top_five.png)
 
